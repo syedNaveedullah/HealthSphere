@@ -6,17 +6,17 @@ Welcome to **LifeLinkCare**, your comprehensive web application for health and w
 
 ## 📜 Table of Contents
 
-- [ProjectDescription]: (#LifeLinkCare is an integrated platform offering a range of health and wellness services)
+- Project Description: LifeLinkCare is an integrated platform offering a range of health and wellness services
 
-- [Features] : (#Medicine Scanner, AI BOT to help users to get more info about medicine, and in Services: BodyBuilding, YogaTherapy, ReadingTherapy, LaughingTherapy, AudioTherapy, Consult-a-Doctor...)
+- Features : Medicine Scanner, AI BOT to help users to get more info about medicine, and in Services: BodyBuilding, YogaTherapy, ReadingTherapy, LaughingTherapy, AudioTherapy, Consult-a-Doctor...
 
-- [Installation] :(#npm install: to install all modules used in this web site)
+- Installation :(npm install: to install all modules used in this web site)
 
-- [Usage](#For Elder & Near Sightedness people, also it has some Therapy which use Relif Stress)
+- Usage : For Elder & Near Sightedness people, also it has some Therapy which use Relif Stress
 
-- [TechnologiesUsed] : (#Node, Express, MongoDB, npm, LLAMA3:API, HTML5-QRscanner, Bootstrap)
+- Technologies Used : Node, Express, MongoDB, npm, LLAMA3:API, HTML5-QRscanner, Bootstrap
 
-- [LinkedIn] : (linkedin.com/in/syed-naveedullah-hussaini-0b2741227)
+- LinkedIn : linkedin.com/in/syed-naveedullah-hussaini-0b2741227
 
 ## 📝 Project Description
 
