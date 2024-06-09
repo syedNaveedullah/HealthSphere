@@ -2,7 +2,7 @@
 
 Welcome to **LifeLinkCare**, your comprehensive web application for health and wellness. From QR code scanning for medicines to fitness, yoga, and audio therapy, LifeLinkCare has got you covered.
 
-![LifeLinkCare Banner](path-to-your-banner-image)
+LifeLinkCare ![Screenshot 2024-06-09 155623](https://github.com/syedNaveedullah/Life-Link-Care/assets/129250457/d4a5f179-e789-479a-a087-0744e6bd6e61)
 
 ## 📜 Table of Contents
 
@@ -114,4 +114,4 @@ Follow us on social media:
 - [GitHub](https://github.com/syedNaveedullah)
 - [LinkedIn](https://www.linkedin.com/in/syed-naveedullah-hussaini-0b2741227?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bx4jIBeHxTQugttrBCjNX7Q%3D%3D)
 
-![Footer Image](path-to-your-footer-image)
+![Screenshot 2024-06-09 155711](https://github.com/syedNaveedullah/Life-Link-Care/assets/129250457/841dc6e7-de49-40ec-89a5-f9d2171b0553)
