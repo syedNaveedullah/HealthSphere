@@ -23,6 +23,7 @@ LifeLinkCare ![Screenshot 2024-06-09 155623](https://github.com/syedNaveedullah/
 LifeLinkCare is an integrated platform offering a range of health and wellness services, including:
 
 - 🏥 **Medicine Information**: Scan QR codes on medicine packaging to retrieve and hear information.
+- 👨‍💻 **AI BOT**: which helps user to get more info about medicine.
 - 💪 **Fitness Guidance**: Full body workout plans for a healthier lifestyle.
 - 🧘 **Yoga Therapy**: Enhance mental and physical well-being through yoga.
 - 📖 **Reading Therapy**: Support mental health with literature.
