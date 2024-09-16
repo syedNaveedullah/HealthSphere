@@ -1,12 +1,12 @@
-# 🌟 LifeLinkCare 🌟
+# 🌟 HealthSphere 🌟
 
-Welcome to **LifeLinkCare**, your comprehensive web application for health and wellness. From QR code scanning for medicines to fitness, yoga, and audio therapy, LifeLinkCare has got you covered.
+Welcome to **HealthSphere**, your comprehensive web application for health and wellness. From QR code scanning for medicines to fitness, yoga, and audio therapy, HealthSphere has got you covered.
 
-LifeLinkCare ![Screenshot 2024-06-09 155623](https://github.com/syedNaveedullah/Life-Link-Care/assets/129250457/d4a5f179-e789-479a-a087-0744e6bd6e61)
+HealthSphere ![Screenshot 2024-06-09 155623](https://github.com/syedNaveedullah/Life-Link-Care/assets/129250457/d4a5f179-e789-479a-a087-0744e6bd6e61)
 
 ## 📜 Table of Contents
 
-- Project Description: LifeLinkCare is an integrated platform offering a range of health and wellness services
+- Project Description: HealthSphere is an integrated platform offering a range of health and wellness services
 
 - Features : Medicine Scanner, AI BOT to help users to get more info about medicine, and in Services: BodyBuilding, YogaTherapy, ReadingTherapy, LaughingTherapy, AudioTherapy, Consult-a-Doctor...
 
@@ -20,7 +20,7 @@ LifeLinkCare ![Screenshot 2024-06-09 155623](https://github.com/syedNaveedullah/
 
 ## 📝 Project Description
 
-LifeLinkCare is an integrated platform offering a range of health and wellness services, including:
+HealthSphere is an integrated platform offering a range of health and wellness services, including:
 
 - 🏥 **Medicine Information**: Scan QR codes on medicine packaging to retrieve and hear information.
 - 👨‍💻 **AI BOT**: which helps user to get more info about medicine.
@@ -46,8 +46,8 @@ LifeLinkCare is an integrated platform offering a range of health and wellness s
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/LifeLinkCare.git
-   cd LifeLinkCare
+   git clone https://github.com/your-username/HealthSphere.git
+   cd HealthSphere
    ```
 
 2. **Install the dependencies:**
@@ -105,7 +105,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📬 Contact
 
-For questions or inquiries, contact us at [LifeLinkCare@gmail.com](mailto:LifeLinkCare@gmail.com).
+For questions or inquiries, contact us at [HealthSphere@gmail.com](mailto:HealthSphere@gmail.com).
 
 ---
 
