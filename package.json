@@ -1,29 +1,20 @@
 {
-  "name": "HealthSphere",
+  "name": "healthsphere",
   "version": "1.0.0",
-  "description": "",
+  "description": "Welcome to **HealthSphere**, your comprehensive web application for health and wellness. From QR code scanning for medicines to fitness, yoga, and audio therapy, HealthSphere has got you covered.",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "keywords": [],
-  "author": "naveed",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedNaveedullah/HealthSphere.git"
+  },
+  "author": "SyedNaveed",
   "license": "ISC",
-  "dependencies": {
-    "axios": "^1.7.2",
-    "body-parser": "^1.20.2",
-    "dotenv": "^16.4.5",
-    "ejs": "^3.1.10",
-    "express": "^4.19.2",
-    "groq-sdk": "^0.4.0",
-    "html5-qrcode": "^2.3.8",
-    "i": "^0.3.7",
-    "method-override": "^3.0.0",
-    "mongodb": "^6.3.0",
-    "mongoose": "^8.4.1",
-    "npm": "^10.3.0",
-    "path": "^0.12.7",
-    "uuid": "^9.0.1"
-  }
+  "bugs": {
+    "url": "https://github.com/syedNaveedullah/HealthSphere/issues"
+  },
+  "homepage": "https://github.com/syedNaveedullah/HealthSphere#readme"
 }
